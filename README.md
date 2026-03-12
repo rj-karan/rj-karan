@@ -24,7 +24,7 @@
 ---
 
 ```bash
-┌──(zoro_rj㉿0xDEADBEEF)-[/home/zoro_rj]
+┌──(zoro_rj㉿rj)-[/home/zoro_rj]
 └─$ cat identity.json
 ```
 
@@ -42,7 +42,7 @@
 ---
 
 ```bash
-┌──(zoro_rj㉿0xDEADBEEF)-[/home/zoro_rj]
+┌──(zoro_rj㉿rj)-[/home/zoro_rj]
 └─$ ./mission --current
 ```
 
@@ -60,7 +60,7 @@
 ---
 
 ```bash
-┌──(zoro_rj㉿0xDEADBEEF)-[/home/zoro_rj]
+┌──(zoro_rj㉿rj)-[/home/zoro_rj]
 └─$ netstat -tulpn --social
 ```
 
@@ -78,7 +78,7 @@
 ---
 
 ```bash
-┌──(zoro_rj㉿0xDEADBEEF)-[/home/zoro_rj]
+┌──(zoro_rj㉿rj)-[/home/zoro_rj]
 └─$ ls -la /opt/arsenal/ --color=always
 ```
 
@@ -97,7 +97,7 @@ drwxr-xr-x  tools/
 ---
 
 ```bash
-┌──(zoro_rj㉿0xDEADBEEF)-[/home/zoro_rj]
+┌──(zoro_rj㉿rj)-[/home/zoro_rj]
 └─$ tail -f /var/log/commit-history.log
 ```
 
