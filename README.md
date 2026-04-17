@@ -31,9 +31,8 @@
 ```json
 {
   "alias"      : "zoro_rj",
-  "role"       : ["Purple Teamer", "Linux Kernel Nerd", "Automation Addict"],
   "philosophy" : "Hack to learn. Learn to defend. Go Above & Beyond.",
-  "os"         : "kali linux",
+  "os"         : "Arch linux",
   "status"     : "ONLINE — probing the kernel at 1AM",
   "signal"     : "On Progress"
 }
