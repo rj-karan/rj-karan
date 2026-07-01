@@ -1,77 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3443,100:00FFC6&height=220&section=header&text=KARAN%20RJ&fontSize=60&fontColor=00FFC6&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20&descColor=8CF7E1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:003300&height=200&section=header&text=root@karan-rj&fontSize=45&fontColor=00FF41&animation=fadeIn&fontAlignY=40&desc=%3E%3E%20connection%20established%20..." width="100%" />
 
-</div>
-
-<div align="center">
-
-![Status](https://img.shields.io/badge/STATUS-ACTIVE-00FFC6?style=for-the-badge&labelColor=0D1117)
-![Clearance](https://img.shields.io/badge/CLEARANCE-RED%2FBLUE%2FPURPLE-00FFC6?style=for-the-badge&labelColor=0D1117)
-![Threat](https://img.shields.io/badge/THREAT%20MODEL-CONTINUOUS-00FFC6?style=for-the-badge&labelColor=0D1117)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=00FF41&background=000000&center=true&vCenter=true&width=750&lines=whoami+%3D+Karan+RJ;role+%3D+Security+Researcher+%2F%2F+Full+Stack+Dev;access_level+%3D+RED+%7C+BLUE+%7C+PURPLE;status+%3D+scanning+for+vulnerabilities..." alt="typing" />
 
 </div>
 
 <br>
 
+```
+[SYSTEM]  boot sequence initiated...
+[SYSTEM]  loading identity module...
+[OK]      user: zoro_rj
+[OK]      os: Arch Linux
+[OK]      mission: hack to learn, learn to defend, go above & beyond
+[WARN]    curiosity level: unrestricted
+```
+
+<br>
+
 <div align="center">
 
-### 🔗 Visit My Portfolio
+### ⚡ PORTFOLIO UPLINK ⚡
 
 <a href="https://rj-karan.github.io/zoroStack/">
-<img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-zoroStack-00FFC6?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=1800&pause=500&color=00FF41&background=000000&center=true&vCenter=true&width=500&lines=%3E+ACCESS+zoroStack+PORTFOLIO;%3E+click+to+breach+the+firewall" />
 </a>
 
-*A live showcase of my projects, write-ups, and builds — click above to explore.*
+[![PORTFOLIO](https://img.shields.io/badge/%E2%96%B6%20LAUNCH%20PORTFOLIO-000000?style=for-the-badge&logo=protonvpn&logoColor=00FF41&labelColor=000000)](https://rj-karan.github.io/zoroStack/)
 
 </div>
 
 <br>
 
-## 🛡️ Security Profile
+## `$ cat /etc/mission.conf`
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**Threat Actor Emulation (Red)**
-- Web application penetration testing
-- Network & attack surface mapping
-- CTF-driven exploit development
-
-</td>
-<td width="50%" valign="top">
-
-**Defense & Detection (Blue)**
-- Linux hardening & kernel internals
-- Detection engineering fundamentals
-- Secure-by-design backend architecture
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-*"Hack to learn. Learn to defend. Go above & beyond."*
-
-</div>
+```yaml
+codename:   PURPLE HORIZON
+red_team:   mapping attack surfaces & exploiting weaknesses
+blue_team:  hardening systems & engineering detection
+purple:     bridging offense and defense
+kernel:     living in /proc, debugging at 1AM
+```
 
 <br>
 
-## 🔍 Skill Scan Report
+## `$ nmap -sV skills.local`
 
-<div align="center">
-
-| Layer | Stack | Confidence |
-|---|---|---|
-| **Systems / OS** | Linux (Arch), Bash, C | 🟩🟩🟩🟩🟩 |
-| **Offensive Security** | Recon, fuzzing, web app pentesting | 🟩🟩🟩🟩⬜ |
-| **Backend** | Python, FastAPI, MySQL | 🟩🟩🟩🟩🟩 |
-| **Frontend** | HTML, CSS, JavaScript | 🟩🟩🟩⬜⬜ |
-| **Tooling** | Git, VS Code, Docker | 🟩🟩🟩🟩⬜ |
-
-</div>
+```
+PORT      STATE   SERVICE          VERSION
+22/tcp    open    linux-internals  Arch Linux // Bash // C
+443/tcp   open    backend          Python // FastAPI // MySQL
+8080/tcp  open    frontend         HTML // CSS // JavaScript
+31337/tcp open    offsec           Recon // Fuzzing // Web Pentesting
+9001/tcp  open    tooling          Git // Docker // VS Code
+```
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=linux,python,bash,c,java,fastapi,git,html,css,js,mysql,docker,vscode&theme=dark&perline=7" />
@@ -79,42 +62,41 @@
 
 <br>
 
-## 🎯 Featured Build
+## `$ ./exploit --target=featured_project`
 
 <div align="center">
 
-**[RUZZ](https://github.com/rj-karan/RUZZ)** — CLI tool for rapidly building web-enumeration fuzzing commands during CTFs and pentests.
+**[RUZZ](https://github.com/rj-karan/RUZZ)** — a CLI payload generator for web-enumeration fuzzing commands. Built for CTFs and pentests where speed matters.
 
-[![RUZZ](https://github-readme-stats.vercel.app/api/pin/?username=rj-karan&repo=RUZZ&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFC6&text_color=c9d1d9&icon_color=00FFC6)](https://github.com/rj-karan/RUZZ)
+[![RUZZ](https://github-readme-stats.vercel.app/api/pin/?username=rj-karan&repo=RUZZ&theme=dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=c9d1d9&icon_color=00FF41)](https://github.com/rj-karan/RUZZ)
 
 </div>
 
 <br>
 
-## 📡 Activity & Stats
+## `$ tail -f /var/log/activity.log`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rj-karan&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFC6&icon_color=00FFC6&text_color=c9d1d9" height="165" />
-<img src="https://streak-stats.demolab.com?user=rj-karan&theme=dark&hide_border=true&background=0D1117&ring=00FFC6&fire=00FFC6&currStreakLabel=00FFC6" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=rj-karan&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="165" />
+<img src="https://streak-stats.demolab.com?user=rj-karan&theme=dark&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="165" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rj-karan&bg_color=0D1117&color=00FFC6&line=00FFC6&point=c9d1d9&hide_border=true" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rj-karan&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&hide_border=true" width="90%" />
 
 </div>
 
 <br>
 
-## 📡 Contact Channel
+## `$ netstat -tulpn --social`
 
 <div align="center">
 
-<a href="https://rj-karan.github.io/zoroStack/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=00FFC6" /></a>
-<a href="https://www.linkedin.com/in/zororj/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00FFC6" /></a>
-<a href="https://x.com/rj__karan_"><img src="https://img.shields.io/badge/Twitter-0D1117?style=flat-square&logo=x&logoColor=00FFC6" /></a>
-<a href="https://medium.com/@rjkaran418"><img src="https://img.shields.io/badge/Medium-0D1117?style=flat-square&logo=medium&logoColor=00FFC6" /></a>
-<a href="https://tryhackme.com/p/zororj"><img src="https://img.shields.io/badge/TryHackMe-0D1117?style=flat-square&logo=tryhackme&logoColor=00FFC6" /></a>
-<a href="https://stackoverflow.com/users/32486073/rj-karan"><img src="https://img.shields.io/badge/StackOverflow-0D1117?style=flat-square&logo=stackoverflow&logoColor=00FFC6" /></a>
-<a href="https://discord.com/users/zoro_r_j"><img src="https://img.shields.io/badge/Discord-0D1117?style=flat-square&logo=discord&logoColor=00FFC6" /></a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/zororj/)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF41)](https://x.com/rj__karan_)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=00FF41)](https://medium.com/@rjkaran418)
+[![TryHackMe](https://img.shields.io/badge/-TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00FF41)](https://tryhackme.com/p/zororj)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=00FF41)](https://stackoverflow.com/users/32486073/rj-karan)
+[![Discord](https://img.shields.io/badge/-Discord-000000?style=for-the-badge&logo=discord&logoColor=00FF41)](https://discord.com/users/zoro_r_j)
 
 </div>
 
@@ -122,8 +104,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC6,50:0F3443,100:0D1117&height=120&section=footer" width="100%" />
+```
+[SYSTEM]  connection stable ■ all ports monitored ■ session active
+```
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=rj-karan.rj-karan&left_color=0D1117&right_color=00FFC6&left_text=scan%20count" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=rj-karan.rj-karan&left_color=000000&right_color=00FF41&left_text=intrusions%20logged" />
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:003300,100:000000&height=100&section=footer" width="100%" />
 
 </div>
