@@ -1,141 +1,118 @@
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--               BOOT SEQUENCE INITIATED                  -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=E63946&center=true&vCenter=true&width=650&lines=Karan+RJ;Red+Team+%2F+Blue+Team+%2F+Purple+Mind;Breaking+Things+to+Build+Better+Defenses" alt="typing" />
+
+<br>
+
+<img src="https://avatars.githubusercontent.com/u/185403139?v=4" width="120" style="border-radius:50%;" />
+
+### 📁 CASE FILE — SECURITY RESEARCHER
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🗂️ Subject Profile
+
+| Field | Detail |
+|---|---|
+| **Name** | Karan RJ |
+| **Alias** | zoro_rj |
+| **Role** | Red Teamer · Blue Team Builder |
+| **Focus** | Linux Internals · Offensive Security |
+| **Base OS** | Arch Linux |
+| **Status** | 🟢 Active — building & breaking |
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Current Objective
+
+```yaml
+codename: PURPLE HORIZON
+red_team:  mapping attack surfaces
+blue_team: hardening & detection
+purple:    bridging offense/defense
+kernel:    living in /proc
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧰 Field Kit
 
 <div align="center">
 
-[![🌐 Visit My Portfolio](https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-zoroStack-0A0A0A?style=for-the-badge&logoColor=00FF41&labelColor=0A0A0A&color=00FF41)](https://rj-karan.github.io/zoroStack/)
+<img src="https://skillicons.dev/icons?i=linux,python,bash,c,java,fastapi,git,html,mysql,vscode&theme=dark&perline=10" />
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="20%"><b>Systems</b><br>Linux · Bash · C</td>
+<td align="center" width="20%"><b>Scripting</b><br>Python · Automation</td>
+<td align="center" width="20%"><b>Web</b><br>FastAPI · HTML · MySQL</td>
+<td align="center" width="20%"><b>Tooling</b><br>Git · VS Code</td>
+<td align="center" width="20%"><b>Practice Ground</b><br>TryHackMe</td>
+</tr>
+</table>
+
+---
+
+### 🔦 Featured Build
+
+<div align="center">
+
+**[RUZZ](https://github.com/rj-karan/RUZZ)** — an interactive CLI tool that helps CTF players and pentesters spin up fuzzing commands for common web enumeration tasks, fast.
+
+[![RUZZ](https://github-readme-stats.vercel.app/api/pin/?username=rj-karan&repo=RUZZ&theme=dark&hide_border=true&bg_color=0d1117&title_color=E63946&text_color=c9d1d9&icon_color=E63946)](https://github.com/rj-karan/RUZZ)
 
 </div>
 
 ---
 
+### 📊 Activity Log
+
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rj-karan&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=E63946&icon_color=E63946&text_color=c9d1d9" height="165" />
+<img src="https://streak-stats.demolab.com?user=rj-karan&theme=dark&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=E63946" height="165" />
+</div>
 
-```
- ________  ________  ________  ________  ________       ___     
-|\_____  \|\   __  \|\   __  \|\   __  \|\   __  \     |\  \    
- \|___/  /\ \  \|\  \ \  \|\  \ \  \|\  \ \  \|\  \    \ \  \   
-     /  / /\ \  \\\  \ \   _  _\ \  \\\  \ \   _  _\ __ \ \  \  
-    /  /_/__\ \  \\\  \ \  \\  \\ \  \\\  \ \  \\  \|\  \\_\  \ 
-   |\________\ \_______\ \__\\ _\\ \_______\ \__\\ _\ \________\
-    \|_______|\|_______|\|__|\|__|\|_______|\|__|\|__\|________|
-                                                                
-                                     
-                                                                
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%5B*%5D+Red+Teamer+%7C+Linux+Kernel+Explorer;%5B*%5D+Offensive+Mindset.+Defensive+Strategy.;%5B*%5D+Automating+the+Chaos+Securely...;%5B*%5D+Go+Above+%26+Beyond+%F0%9F%94%A5" alt="Typing SVG" />
-
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rj-karan&theme=redical&bg_color=0d1117&color=E63946&line=E63946&point=c9d1d9&hide_border=true" width="90%" />
 </div>
 
 ---
 
-```bash
-┌──(zoro_rj㉿rj)-[/home/zoro_rj]
-└─$ cat identity.json
-```
-
-```json
-{
-  "alias"      : "zoro_rj",
-  "philosophy" : "Hack to learn. Learn to defend. Go Above & Beyond.",
-  "os"         : "Arch linux",
-  "status"     : "ONLINE — probing the kernel at 1AM",
-  "signal"     : "On Progress"
-}
-```
-
----
-
-```bash
-┌──(zoro_rj㉿rj)-[/home/zoro_rj]
-└─$ ./mission --current
-```
-
-```
-╔══════════════════════════════════════════════════╗
-║          OPERATION: PURPLE HORIZON               ║
-╠══════════════════════════════════════════════════╣
-║  🔴  RED   → Mapping attack surfaces             ║
-║  🔵  BLUE  → Hardening & detection engineering   ║
-║  🟣  PURPLE→ Bridging offense & defense          ║
-║  🐧  KERNEL→ Living in /proc and loving it       ║
-╚══════════════════════════════════════════════════╝
-```
-
----
-
-```bash
-┌──(zoro_rj㉿rj)-[/home/zoro_rj]
-└─$ netstat -tulpn --social
-```
+### 📡 Reach the Subject
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0A0A0A)](https://www.linkedin.com/in/zororj/)
-[![Twitter](https://img.shields.io/badge/-%20Twitter-0A0A0A?style=for-the-badge&logo=twitter&logoColor=00FF41&labelColor=0A0A0A)](https://x.com/rj__karan_)
-[![Medium](https://img.shields.io/badge/-%20Medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=00FF41&labelColor=0A0A0A)](https://medium.com/@rjkaran418)
-[![TryHackMe](https://img.shields.io/badge/-%20TryHackMe-0A0A0A?style=for-the-badge&logo=tryhackme&logoColor=00FF41&labelColor=0A0A0A)](https://tryhackme.com/p/zororj)
-[![StackOverflow](https://img.shields.io/badge/-%20Stack_Overflow-0A0A0A?style=for-the-badge&logo=stackoverflow&logoColor=00FF41&labelColor=0A0A0A)](https://stackoverflow.com/users/32486073/rj-karan)
-[![Discord](https://img.shields.io/badge/-%20Discord-0A0A0A?style=for-the-badge&logo=discord&logoColor=00FF41&labelColor=0A0A0A)](https://discord.com/users/zoro_r_j)
+<a href="https://rj-karan.github.io/zoroStack/"><img src="https://img.shields.io/badge/Portfolio-E63946?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/zororj/"><img src="https://img.shields.io/badge/LinkedIn-E63946?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/rj__karan_"><img src="https://img.shields.io/badge/Twitter-E63946?style=flat-square&logo=twitter&logoColor=white" /></a>
+<a href="https://medium.com/@rjkaran418"><img src="https://img.shields.io/badge/Medium-E63946?style=flat-square&logo=medium&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/zororj"><img src="https://img.shields.io/badge/TryHackMe-E63946?style=flat-square&logo=tryhackme&logoColor=white" /></a>
+<a href="https://stackoverflow.com/users/32486073/rj-karan"><img src="https://img.shields.io/badge/StackOverflow-E63946?style=flat-square&logo=stackoverflow&logoColor=white" /></a>
+<a href="https://discord.com/users/zoro_r_j"><img src="https://img.shields.io/badge/Discord-E63946?style=flat-square&logo=discord&logoColor=white" /></a>
 
 </div>
 
----
-
-```bash
-┌──(zoro_rj㉿rj)-[/home/zoro_rj]
-└─$ ls -la /opt/arsenal/ --color=always
-```
-
-```
-drwxr-xr-x  tools/
-├── [CORE]      linux   python   bash   c
-├── [WEB]       html    mysql    fastapi
-├── [DEV]       git     vscode   java
-└── [STATUS]    🟢 all systems armed
-```
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,bash,c,java,fastapi,git,html,mysql,vscode&theme=dark&perline=10" />
-</div>
-
----
-
-```bash
-┌──(zoro_rj㉿rj)-[/home/zoro_rj]
-└─$ tail -f /var/log/commit-history.log
-```
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rj-karan&locale=en&mode=daily&theme=terminal&hide_border=true&border_radius=0&fire=00FF41&ring=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888" height="195" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rj-karan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&icon_color=00FF41" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rj-karan&locale=en&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true" height="155" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rj-karan&theme=react-dark&bg_color=0d0d0d&color=00FF41&line=00FF41&point=ffffff&hide_border=true" width="100%" />
-</div>
-
-
+<br>
 
 <div align="center">
 
-```
-[*] Intrusion detected from:
-```
-<img src="https://visitor-badge.laobi.icu/badge?page_id=rj-karan.rj-karan&left_color=black&right_color=green&left_text=visitors" />
+*"Hack to learn. Learn to defend. Go above & beyond."*
 
-```
-> SESSION ACTIVE ■ ALL PORTS MONITORED ■ STAY CURIOUS 🟢
-```
+<img src="https://visitor-badge.laobi.icu/badge?page_id=rj-karan.rj-karan&left_color=0d1117&right_color=E63946&left_text=case%20file%20views" />
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  END OF TRANSMISSION                   -->
-<!-- ═══════════════════════════════════════════════════════ -->
