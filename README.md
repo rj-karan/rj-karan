@@ -1,15 +1,10 @@
 <div align="center">
 
-<pre>
-██╗  ██╗ █████╗ ██████╗  █████╗ ███╗   ██╗    ██████╗      ██╗
-██║ ██╔╝██╔══██╗██╔══██╗██╔══██╗████╗  ██║    ██╔══██╗     ██║
-█████╔╝ ███████║██████╔╝███████║██╔██╗ ██║    ██████╔╝     ██║
-██╔═██╗ ██╔══██║██╔══██╗██╔══██║██║╚██╗██║    ██╔══██╗██   ██║
-██║  ██╗██║  ██║██║  ██║██║  ██║██║ ╚████║    ██║  ██║╚█████╔╝
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝ ╚════╝
-</pre>
+<img src="./banner.svg" width="100%" alt="Karan RJ banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&width=750&lines=Security+Researcher+%2F%2F+Full+Stack+Developer;Red+Team+%E2%80%A2+Blue+Team+%E2%80%A2+Purple+Mindset;Currently+breaking+things+to+build+better+defenses" alt="typing" />
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=00FF9D&background=00000000&center=true&vCenter=true&width=750&lines=Security+Researcher+%2F%2F+Full+Stack+Developer;Red+Team+%E2%80%A2+Blue+Team+%E2%80%A2+Purple+Mindset;Currently+breaking+things+to+build+better+defenses" alt="typing" />
 
 <br>
 
