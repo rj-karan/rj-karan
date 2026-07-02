@@ -3,7 +3,7 @@
 <img src="./banner.svg" width="100%" alt="Karan RJ banner" />
 
 <br><br>
-
+<div class="tenor-gif-embed" data-postid="16340763784012771786" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/one-piece-zoro-vs-king-king-of-hell-one-piece-1062-episode-1062-gif-16340763784012771786">One Piece Zoro Vs King GIF</a>from <a href="https://tenor.com/search/one+piece-gifs">One Piece GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=22&duration=2800&pause=800&color=0AFF7A&background=00000000&center=true&vCenter=true&width=750&lines=Security+Researcher+%2F%2F+Full+Stack+Developer;Sharpen+the+skill%2C+not+just+the+blade;Lost+sometimes.+Never+off+course." alt="typing" />
 
 </div>
