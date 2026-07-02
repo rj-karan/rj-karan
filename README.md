@@ -34,16 +34,11 @@
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 Stat Sheet (custom-built, not a template)
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rj-karan&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=040a06&title_color=0AFF7A&icon_color=0AFF7A&text_color=e6f5ec" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rj-karan&layout=compact&theme=dark&hide_border=true&bg_color=040a06&title_color=0AFF7A&text_color=e6f5ec" height="165" />
-
-<img src="https://streak-stats.demolab.com?user=rj-karan&theme=dark&hide_border=true&background=040a06&ring=0AFF7A&fire=0AFF7A&currStreakLabel=0AFF7A" height="165" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rj-karan&bg_color=040a06&color=0AFF7A&line=0AFF7A&point=e6f5ec&hide_border=true" width="90%" />
+<img src="./dashboard.svg" width="100%" alt="Karan RJ custom stat dashboard" />
 
 </div>
 
