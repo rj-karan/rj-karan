@@ -1,0 +1,40 @@
+{
+  "theme": "dark",
+  "colors": {
+    "background": "#0d0208",
+    "border": "#00ff41",
+    "title": "#00ff41",
+    "key": "#00ff41",
+    "value": "#c8ffcf",
+    "text": "#00ff41"
+  },
+  "font": "JetBrains Mono",
+  "gridSize": 26,
+  "sections": [
+    {
+      "header": "{{username}}@github",
+      "fields": [
+        { "key": "OS", "value": "DevSecOps Linux x86_64" },
+        { "key": "Host", "value": "GitHub Cloud" },
+        { "key": "Role", "value": "Security Engineer / Full-Stack Dev" },
+        { "key": "Uptime", "value": "{{account_age}}" },
+        { "key": "Packages", "value": "{{public_repos}} repos" },
+        { "key": "Shell", "value": "zsh + bash" },
+        { "key": "Resolution", "value": "1920x1080 @ 3 monitors" },
+        { "key": "Terminal", "value": "kitty" },
+        { "key": "CPU", "value": "Threat Modeling @ 3.8GHz" },
+        { "key": "GPU", "value": "Exploit Dev Renderer" },
+        { "key": "Memory", "value": "{{followers}} followers / {{following}} following" }
+      ]
+    },
+    {
+      "header": "- Stack",
+      "fields": [
+        { "key": "Languages", "value": "Python, JS/TS, Go, Bash" },
+        { "key": "Security", "value": "Burp Suite, Nmap, Metasploit, Wireshark" },
+        { "key": "DevOps", "value": "Docker, Kubernetes, Terraform, GitHub Actions" },
+        { "key": "Cloud", "value": "AWS, GCP" }
+      ]
+    }
+  ]
+}
