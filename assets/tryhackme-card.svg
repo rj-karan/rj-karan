@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="174" viewBox="0 0 500 174" role="img" aria-labelledby="title desc">
+  <title id="title">TryHackMe profile: zororj</title>
+  <desc id="desc">Open Karan's TryHackMe profile</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#171a22"/>
+      <stop offset="1" stop-color="#24191d"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#ff5252" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="498" height="172" rx="16" fill="url(#background)" stroke="#ff5252" stroke-opacity=".65" stroke-width="2"/>
+  <rect x="2" y="2" width="496" height="170" rx="15" fill="url(#grid)"/>
+  <path d="M24 40V24H40M460 150h16v-16" fill="none" stroke="#ff5252" stroke-width="2" stroke-linecap="round"/>
+  <rect x="26" y="29" width="68" height="68" rx="14" fill="#ff5252"/>
+  <path d="m44 52 16 12-16 12m26-24 12 12-12 12" fill="none" stroke="#171a22" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="116" y="47" fill="#ff7171" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3">TRYHACKME</text>
+  <text x="116" y="84" fill="#f5f5f7" font-family="Arial, sans-serif" font-size="32" font-weight="700">zororj</text>
+  <text x="28" y="126" fill="#c9cbd2" font-family="Arial, sans-serif" font-size="14">Hands-on rooms, challenges &amp; security learning</text>
+  <text x="28" y="153" fill="#ff7171" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">OPEN PROFILE  ↗</text>
+</svg>
