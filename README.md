@@ -41,6 +41,8 @@
   </a>
 </p>
 
+---
+
 <h3 align="center">
   <img src="assets/tryhackme-logo.svg" alt="" width="25"> TryHackMe
 </h3>
@@ -56,6 +58,8 @@
   Rank #90,150 &nbsp;·&nbsp; Top 4% &nbsp;·&nbsp; Level 10<br>
   <sub>Verified from my public profile on 26 October 2026</sub>
 </p>
+
+---
 
 <h3 align="center">
   <img src="assets/hackthebox-logo.svg" alt="" width="25"> Hack The Box
