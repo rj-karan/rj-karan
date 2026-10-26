@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/zoro_rj/">
-    <img src="https://leetcode-stats.tashif.codes/zoro_rj/stats/svg?theme=dark" alt="Live LeetCode solved counts and topic graph for zoro_rj" width="500">
+    <img src="https://leetcard.jacoblin.cool/zoro_rj?theme=dark&amp;ext=heatmap" alt="Live LeetCode solved counts and 52-week activity heatmap for zoro_rj" width="500">
   </a>
 </p>
 
