@@ -28,7 +28,16 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/zoro_rj/">
-    <img src="https://leetcard.jacoblin.cool/zoro_rj?theme=dark&amp;ext=heatmap" alt="Live LeetCode solved counts and 52-week activity heatmap for zoro_rj" width="500">
+    <img src="https://leetcode-calander-svg.vercel.app/zoro_rj/problems" alt="Live LeetCode solved problems by difficulty for zoro_rj" width="380">
+  </a>
+  <a href="https://leetcode.com/u/zoro_rj/">
+    <img src="https://leetcode-calander-svg.vercel.app/zoro_rj/stats" alt="Live LeetCode active days and longest streak for zoro_rj" width="380">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/zoro_rj/">
+    <img src="https://leetcode-calander-svg.vercel.app/zoro_rj" alt="Live LeetCode submission heatmap for zoro_rj" width="760">
   </a>
 </p>
 
