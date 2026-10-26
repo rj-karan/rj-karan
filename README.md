@@ -22,9 +22,9 @@
 
 <h2 align="center">Where I practice</h2>
 
-<p align="center">Problem solving, security labs, and CTF challenges.</p>
-
-<h3 align="center">01 / LeetCode</h3>
+<h3 align="center">
+  <img src="assets/leetcode-logo.svg" alt="" width="25"> LeetCode
+</h3>
 
 <p align="center">
   <a href="https://leetcode.com/u/zoro_rj/">
@@ -32,18 +32,32 @@
   </a>
 </p>
 
-<h3 align="center">02 / TryHackMe</h3>
+<h3 align="center">
+  <img src="assets/tryhackme-logo.svg" alt="" width="25"> TryHackMe
+</h3>
 
 <p align="center">
   <a href="https://tryhackme.com/p/zororj">
-    <img src="assets/tryhackme-card.svg" alt="Open zororj on TryHackMe" width="500">
+    <strong>zororj</strong>
   </a>
 </p>
 
-<h3 align="center">03 / Hack The Box</h3>
+<p align="center">
+  <strong>99 rooms completed</strong> &nbsp;·&nbsp; <strong>12,024 points</strong> &nbsp;·&nbsp; <strong>11 badges</strong><br>
+  Rank #90,150 &nbsp;·&nbsp; Top 4% &nbsp;·&nbsp; Level 10<br>
+  <sub>Verified from my public profile on 26 October 2026</sub>
+</p>
+
+<h3 align="center">
+  <img src="assets/hackthebox-logo.svg" alt="" width="25"> Hack The Box
+</h3>
 
 <p align="center">
-  <a href="https://profile.hackthebox.com/profile/019c8e6f-d9bc-7154-9912-4294960a0296">
-    <img src="assets/hackthebox-card.svg" alt="Open Rj Karan on Hack The Box" width="500">
+  <a href="https://app.hackthebox.com/users/3175444">
+    <img src="https://www.hackthebox.com/badge/image/3175444" alt="Official live Hack The Box rank badge for zoro06rj" width="330">
   </a>
+</p>
+
+<p align="center">
+  <a href="https://profile.hackthebox.com/profile/019c8e6f-d9bc-7154-9912-4294960a0296">View my full HTB profile</a> &nbsp;·&nbsp; 6 earned badges and 1 CTF participation certificate
 </p>
