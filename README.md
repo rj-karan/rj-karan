@@ -49,14 +49,12 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/zororj">
-    <strong>zororj</strong>
+    <img src="assets/tryhackme-badge.svg" alt="TryHackMe profile badge for zororj: 99 rooms completed, 12,024 points, 11 badges" width="330">
   </a>
 </p>
 
 <p align="center">
-  <strong>99 rooms completed</strong> &nbsp;·&nbsp; <strong>12,024 points</strong> &nbsp;·&nbsp; <strong>11 badges</strong><br>
-  Rank #90,150 &nbsp;·&nbsp; Top 4% &nbsp;·&nbsp; Level 10<br>
-  <sub>Verified from my public profile on 26 October 2026</sub>
+  <sub>Profile stats checked on 26 October 2026</sub>
 </p>
 
 ---
