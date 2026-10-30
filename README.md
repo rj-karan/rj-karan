@@ -2,21 +2,30 @@
   <img src="assets/one-piece-badass.gif" alt="One Piece animated banner" width="100%">
 </div>
 
-<div align="center">
-  <img src="hero-banner-v2.svg" alt="Karan RJ profile banner" width="100%">
-</div>
-
-<h1 align="center">Karan RJ</h1>
-
-<p align="center">
-  🏴‍☠️ Security · Code · CTFs
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/zororj/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:rjkaran418@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://rj-karan.github.io/zoroStack/">Website</a>
-</p>
+<table align="center">
+  <tr>
+    <td width="320" align="center" valign="middle">
+      <a href="https://raw.githubusercontent.com/rj-karan/rj-karan/main/assets/profile-loop.mp4">
+        <img src="assets/profile-loop.gif" alt="Animated dark neon video beside Karan RJ's profile" width="300">
+      </a><br>
+      <sub><a href="https://raw.githubusercontent.com/rj-karan/rj-karan/main/assets/profile-loop.mp4">▶ Watch with sound</a></sub>
+    </td>
+    <td width="470" valign="middle">
+      <h2>Karan RJ</h2>
+      <p><strong>Security Researcher · DevSecOps Engineer</strong><br>
+      Full-Stack Developer · Purple Teamer · CTF Player</p>
+      <p>📍 Coimbatore, India · Wano Arc<br>
+      🎓 B.Tech CSE (Cybersecurity), Sri Shakthi IET<br>
+      🛠️ Secure full-stack systems and purple-team tooling</p>
+      <p><strong>Skills</strong><br>
+      Python · FastAPI · React · TypeScript · MySQL<br>
+      Docker · Kali Linux · Burp Suite · AWS · Git</p>
+      <p><a href="https://rj-karan.github.io/zoroStack/">Website</a> ·
+      <a href="https://www.linkedin.com/in/zororj/">LinkedIn</a> ·
+      <a href="mailto:rjkaran418@gmail.com">Email</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
