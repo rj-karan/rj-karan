@@ -60,35 +60,25 @@
 
 ---
 
-<h3 align="center">
-  <img src="assets/tryhackme-logo.svg" alt="" width="25"> TryHackMe
-</h3>
-
-<p align="center">
-  <a href="https://tryhackme.com/p/zororj">
-    <img src="assets/tryhackme-badge.svg" alt="TryHackMe profile badge for zororj: 99 rooms completed, 12,024 points, 11 badges" width="330">
-  </a>
-</p>
-
-<p align="center">
-  <sub>Profile stats checked on 26 October 2026</sub>
-</p>
-
----
-
-<h3 align="center">
-  <img src="assets/hackthebox-logo.svg" alt="" width="25"> Hack The Box
-</h3>
-
-<p align="center">
-  <a href="https://app.hackthebox.com/users/3175444">
-    <img src="https://www.hackthebox.com/badge/image/3175444" alt="Official live Hack The Box rank badge for zoro06rj" width="330">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://profile.hackthebox.com/profile/019c8e6f-d9bc-7154-9912-4294960a0296">View my full HTB profile</a> &nbsp;·&nbsp; 6 earned badges and 1 CTF participation certificate
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3><img src="assets/tryhackme-logo.svg" alt="" width="25"> TryHackMe</h3>
+      <p><a href="https://tryhackme.com/p/zororj">
+        <img src="assets/tryhackme-badge.svg" alt="TryHackMe profile badge for zororj: 99 rooms completed, 12,024 points, 11 badges" width="330">
+      </a></p>
+      <p><sub>Profile stats checked on 26 October 2026</sub></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3><img src="assets/hackthebox-logo.svg" alt="" width="25"> Hack The Box</h3>
+      <p><a href="https://app.hackthebox.com/users/3175444">
+        <img src="https://www.hackthebox.com/badge/image/3175444" alt="Official live Hack The Box rank badge for zoro06rj" width="330">
+      </a></p>
+      <p><a href="https://profile.hackthebox.com/profile/019c8e6f-d9bc-7154-9912-4294960a0296">Full HTB profile</a><br>
+      <sub>6 earned badges · 1 CTF participation certificate</sub></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
