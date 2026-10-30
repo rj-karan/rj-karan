@@ -2,15 +2,15 @@
   <img src="assets/one-piece-badass.gif" alt="One Piece animated banner" width="100%">
 </div>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td width="320" align="center" valign="middle">
+    <td width="50%" align="center" valign="middle">
       <a href="https://raw.githubusercontent.com/rj-karan/rj-karan/main/assets/profile-loop.mp4">
-        <img src="assets/profile-loop.gif" alt="Animated dark neon video beside Karan RJ's profile" width="300">
+        <img src="assets/profile-loop.gif" alt="Animated dark neon video beside Karan RJ's profile" width="390">
       </a><br>
       <sub><a href="https://raw.githubusercontent.com/rj-karan/rj-karan/main/assets/profile-loop.mp4">▶ Watch with sound</a></sub>
     </td>
-    <td width="470" valign="middle">
+    <td width="50%" valign="middle">
       <h2>Karan RJ</h2>
       <p><strong>Security Researcher · DevSecOps Engineer</strong><br>
       Full-Stack Developer · Purple Teamer · CTF Player</p>
