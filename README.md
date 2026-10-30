@@ -89,3 +89,17 @@
 <p align="center">
   <a href="https://profile.hackthebox.com/profile/019c8e6f-d9bc-7154-9912-4294960a0296">View my full HTB profile</a> &nbsp;·&nbsp; 6 earned badges and 1 CTF participation certificate
 </p>
+
+---
+
+<h3>🔗 Connect</h3>
+
+<p align="center">
+  <a href="https://github.com/rj-karan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/zororj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="https://tryhackme.com/p/zororj"><img src="https://img.shields.io/badge/TryHackMe-C11111?style=flat-square&amp;logo=tryhackme&amp;logoColor=white" alt="TryHackMe"></a>
+  <a href="https://app.hackthebox.com/users/3175444"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&amp;logo=hackthebox&amp;logoColor=black" alt="Hack The Box"></a>
+  <a href="mailto:rjkaran418@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+</p>
+
+> I write code, break it, fix it, then take notes so I don't break it the same way twice. If you're building something interesting, say hi.
