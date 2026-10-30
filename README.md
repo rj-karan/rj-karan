@@ -19,8 +19,7 @@
     <td width="40%" align="center" valign="middle">
       <a href="https://raw.githubusercontent.com/rj-karan/rj-karan/main/assets/profile-loop.mp4">
         <img src="assets/profile-loop.gif" alt="Animated dark neon video beside Karan RJ's profile" width="300">
-      </a><br>
-      <sub><a href="https://raw.githubusercontent.com/rj-karan/rj-karan/main/assets/profile-loop.mp4">▶ Watch with sound</a></sub>
+      </a>
     </td>
     <td width="60%" valign="middle">
       <p><strong>Hey, I'm Karan RJ.</strong></p>
