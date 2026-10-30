@@ -2,6 +2,18 @@
   <img src="assets/one-piece-badass.gif" alt="One Piece animated banner" width="100%">
 </div>
 
+<br>
+
+<h1 align="center">Yooo, I'm Karan 👋</h1>
+
+<p align="center">Security · Code · CTFs</p>
+
+<br>
+
+---
+
+<h3>⚔️ About me</h3>
+
 <table align="center" width="100%">
   <tr>
     <td width="40%" align="center" valign="middle">
@@ -11,24 +23,12 @@
       <sub><a href="https://raw.githubusercontent.com/rj-karan/rj-karan/main/assets/profile-loop.mp4">▶ Watch with sound</a></sub>
     </td>
     <td width="60%" valign="middle">
-      <h1>Karan RJ</h1>
-      <p>⚔️ <strong>Security Researcher · DevSecOps Engineer</strong><br>
-      <em>Full-Stack Developer · Purple Teamer · CTF Player</em></p>
-      <p>📍 Coimbatore, India · Wano Arc<br>
-      🎓 B.Tech CSE (Cybersecurity), Sri Shakthi IET</p>
-      <p><strong>⚡ Focus</strong><br>
-      Secure full-stack systems, purple-team tooling and hands-on security practice.</p>
-      <p><strong>🛠️ Toolbox</strong><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI">
-      <img src="https://img.shields.io/badge/React-149ECA?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux">
-      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&amp;logo=burpsuite&amp;logoColor=white" alt="Burp Suite">
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=aws&amp;logoColor=white" alt="AWS">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git"></p>
+      <p><strong>Hey, I'm Karan RJ.</strong></p>
+      <p>I'm a B.Tech CSE (Cybersecurity) student at Sri Shakthi IET in Coimbatore. I build secure full-stack systems and purple-team tools.</p>
+      <p>I work across security research, DevSecOps and CTFs, bringing offensive and defensive thinking into the same workflow.</p>
+      <p><strong>Tech stack</strong><br>
+      Python · FastAPI · React · TypeScript · MySQL<br>
+      Docker · Kali Linux · Burp Suite · AWS · Git</p>
       <p><a href="https://rj-karan.github.io/zoroStack/">Website</a> ·
       <a href="https://www.linkedin.com/in/zororj/">LinkedIn</a> ·
       <a href="mailto:rjkaran418@gmail.com">Email</a></p>
