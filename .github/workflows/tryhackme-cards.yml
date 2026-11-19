@@ -15,11 +15,21 @@ jobs:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
 
       # The profile card URL carries a content hash that changes with the stats; tryhackme.com sits
-      # behind a Vercel JS checkpoint, so read it with headless Chrome instead of curl.
+      # behind a Vercel JS checkpoint, so let headless Chrome solve it and wait for the real page.
       - name: Point README at the current profile card
         run: |
-          card=$(google-chrome --headless=new --disable-gpu --timeout=20000 --dump-dom https://tryhackme.com/p/zororj 2>/dev/null \
-            | grep -oE 'https://cdn-images\.tryhackme\.com/public-profile/zororj/[0-9a-f]+\.png' | head -1 || true)
+          npm i --prefix /tmp/pp --no-save puppeteer-core@24 >/dev/null
+          card=$(NODE_PATH=/tmp/pp/node_modules node -e '
+            const puppeteer = require("puppeteer-core");
+            (async () => {
+              const b = await puppeteer.launch({ executablePath: "/usr/bin/google-chrome", args: ["--no-sandbox"] });
+              const p = await b.newPage();
+              await p.goto("https://tryhackme.com/p/zororj", { waitUntil: "domcontentloaded", timeout: 90000 });
+              await p.waitForSelector("meta[property=\"og:image\"][content*=\"/public-profile/\"]", { timeout: 90000 });
+              console.log(await p.$eval("meta[property=\"og:image\"][content*=\"/public-profile/\"]", m => m.content));
+              await b.close();
+            })().catch(e => { console.error(e.message); process.exit(1); });
+          ' | grep -oE '^https://cdn-images\.tryhackme\.com/public-profile/zororj/[0-9a-f]+\.png$' || true)
           if [ -z "$card" ]; then echo "::error::profile card URL not found on tryhackme.com/p/zororj"; exit 1; fi
           curl -fsSI "$card" >/dev/null
           sed -i -E "s#https://cdn-images\.tryhackme\.com/public-profile/zororj/[0-9a-f]+\.png#$card#" README.md
