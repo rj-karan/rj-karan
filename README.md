@@ -12,7 +12,7 @@
 
 ---
 
-<h3>⚔️ About me</h3>
+<h2 align="center">⚔️ About me</h2>
 
 <table align="center" width="100%">
   <tr>
@@ -60,50 +60,39 @@
 
 ---
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3><img src="assets/tryhackme-logo.svg" alt="" width="25"> TryHackMe</h3>
-      <p><a href="https://tryhackme.com/p/zororj">
-        <img src="assets/tryhackme-badge.svg" alt="TryHackMe profile badge for zororj: 99 rooms completed, 12,024 points, 11 badges" width="330">
-      </a></p>
-      <p><sub>Profile stats checked on 26 October 2026</sub></p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3><img src="assets/hackthebox-logo.svg" alt="" width="25"> Hack The Box</h3>
-      <p><a href="https://app.hackthebox.com/users/3175444">
-        <img src="https://www.hackthebox.com/badge/image/3175444" alt="Official live Hack The Box rank badge for zoro06rj" width="330">
-      </a></p>
-      <p><a href="https://profile.hackthebox.com/profile/019c8e6f-d9bc-7154-9912-4294960a0296">Full HTB profile</a><br>
-      <sub>6 earned badges · 1 CTF participation certificate</sub></p>
-    </td>
-  </tr>
-</table>
+<h3 align="center">
+  <img src="assets/tryhackme-logo.svg" alt="" width="25"> TryHackMe
+</h3>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/zororj">
+    <img src="https://cdn-images.tryhackme.com/public-profile/zororj/a092f1b01dd8.png" alt="Official TryHackMe profile card for zororj" width="380">
+  </a>
+  <a href="https://tryhackme.com/share/capability-score/zororj">
+    <img src="https://cdn-images.tryhackme.com/capability-score/zororj.png" alt="Official TryHackMe capability score card for zororj" width="380">
+  </a>
+</p>
 
 ---
 
-<h3 align="center"><img src="assets/tryhackme-logo.svg" alt="" width="25"> TryHackMe, straight from the source</h3>
+<h3 align="center">
+  <img src="assets/hackthebox-logo.svg" alt="" width="25"> Hack The Box
+</h3>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="40%" align="center" valign="middle">
-      <a href="https://tryhackme.com/p/zororj">
-        <img src="https://cdn-images.tryhackme.com/public-profile/zororj/a092f1b01dd8.png" alt="Official TryHackMe profile card for zororj" width="320">
-      </a>
-    </td>
-    <td width="60%" align="center" valign="middle">
-      <a href="https://tryhackme.com/share/capability-score/zororj">
-        <img src="https://cdn-images.tryhackme.com/capability-score/zororj.png" alt="Official TryHackMe capability score card for zororj" width="460">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://app.hackthebox.com/users/3175444">
+    <img src="https://www.hackthebox.com/badge/image/3175444" alt="Official live Hack The Box rank badge for zoro06rj" width="330">
+  </a>
+</p>
 
-<p align="center"><sub>Official TryHackMe cards, refreshed daily by a GitHub Action</sub></p>
+<p align="center">
+  <a href="https://profile.hackthebox.com/profile/019c8e6f-d9bc-7154-9912-4294960a0296">Full HTB profile</a><br>
+  <sub>6 earned badges · 1 CTF participation certificate</sub>
+</p>
 
 ---
 
-<h3>🔗 Connect</h3>
+<h2 align="center">🔗 Connect</h2>
 
 <p align="center">
   <a href="https://github.com/rj-karan"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
@@ -113,4 +102,4 @@
   <a href="mailto:rjkaran418@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
 </p>
 
-> I write code, break it, fix it, then take notes so I don't break it the same way twice. If you're building something interesting, say hi.
+<p align="center"><em>I write code, break it, fix it, then take notes so I don't break it the same way twice. If you're building something interesting, say hi.</em></p>
