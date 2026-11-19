@@ -82,6 +82,27 @@
 
 ---
 
+<h3 align="center"><img src="assets/tryhackme-logo.svg" alt="" width="25"> TryHackMe, straight from the source</h3>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://tryhackme.com/p/zororj">
+        <img src="https://cdn-images.tryhackme.com/public-profile/zororj/a092f1b01dd8.png" alt="Official TryHackMe profile card for zororj" width="320">
+      </a>
+    </td>
+    <td width="60%" align="center" valign="middle">
+      <a href="https://tryhackme.com/share/capability-score/zororj">
+        <img src="https://cdn-images.tryhackme.com/capability-score/zororj.png" alt="Official TryHackMe capability score card for zororj" width="460">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><sub>Official TryHackMe cards, refreshed daily by a GitHub Action</sub></p>
+
+---
+
 <h3>🔗 Connect</h3>
 
 <p align="center">

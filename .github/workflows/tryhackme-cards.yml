@@ -1,0 +1,34 @@
+name: Refresh TryHackMe cards
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      # The profile card URL carries a content hash that changes with the stats; tryhackme.com sits
+      # behind a Vercel JS checkpoint, so read it with headless Chrome instead of curl.
+      - name: Point README at the current profile card
+        run: |
+          card=$(google-chrome --headless=new --disable-gpu --timeout=20000 --dump-dom https://tryhackme.com/p/zororj 2>/dev/null \
+            | grep -oE 'https://cdn-images\.tryhackme\.com/public-profile/zororj/[0-9a-f]+\.png' | head -1 || true)
+          if [ -z "$card" ]; then echo "::error::profile card URL not found on tryhackme.com/p/zororj"; exit 1; fi
+          curl -fsSI "$card" >/dev/null
+          sed -i -E "s#https://cdn-images\.tryhackme\.com/public-profile/zororj/[0-9a-f]+\.png#$card#" README.md
+          curl -fsSI https://cdn-images.tryhackme.com/capability-score/zororj.png >/dev/null \
+            || echo "::warning::capability card missing; press Share on your capability score at tryhackme.com"
+
+      - name: Commit if changed
+        run: |
+          git diff --quiet README.md && exit 0
+          git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+            commit -am "Refresh TryHackMe profile card"
+          git push
